@@ -1,4 +1,4 @@
-Group: Roman Bernhard, Mikail Yayla and Jessica Buehler
+Group: --
 
-Exercises for the lecture "Operating System Construction" in Winter 2017/18 by Prof. Dr. O. Spynczyk
+Exercises for the lecture "Operating System Construction" in Winter 2017/18
 
